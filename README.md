@@ -1,4 +1,3 @@
-# table-detection-
 # Table Detection and Title Extraction
 
 A Python-based tool to detect tables in PDF documents, extract their titles, and export the results in structured formats using Google Gemini Vision API.
