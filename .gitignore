@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments & secrets
+.env
+.env.*
+.secrets
+.credentials
+.python-version
+.venv/
+venv/
+env/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Caches
+.cache/
+.config/
+
+# Project outputs
+output/
+outputs/
+tmp/
+temp/
+
+# Data and samples (optional; uncomment if desired)
+# data/
+# samples/
+
+# Logs
+*.log
+
